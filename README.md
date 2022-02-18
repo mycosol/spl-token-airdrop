@@ -17,3 +17,6 @@ You'll need a few CLI utilities to use this script.
 WhorAZ8rXmD1iAh2hGTJrSdwnY9w75GJpeugBd8w5gR) and replace "1" with the number of tokens to send per account.
 4. Open your terminal, cd into the spl-token-airdrop folder, and type "bash airdrop.sh"
 5. That's it. Have fun sending SPL tokens en masse and burning your $SOL.
+
+## Tips
+If you need to export all the addresses sent to a Discord channel, try this: https://github.com/Tyrrrz/DiscordChatExporter
